@@ -1,2 +1,4 @@
 # TexturePacker
-An algorithm that pack sprite into atlas
+An algorithm that pack sprites into atlas.
+
+![](screenshot.png)
